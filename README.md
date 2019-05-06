@@ -20,3 +20,17 @@
  ★Cashback scheme - Purchases made using STO receive a 4% cashback.
 
  ★Buyer & seller protection - Our Smart Contracts protect buyers and sellers from fraudulent transactions by utilising an escrow.
+ 
+ STO TOKEN DETAILS:
+
+Token Name: storeum
+
+Token Symbol: STO
+
+Token Decimals: 18
+
+Contract Address: https://etherscan.io/address/0xcb39c3502415152b2ec90ff07ee18cc94f681a72
+
+cerculation Supply: 180,000,000
+
+Maximum Supply: 279,000,000
